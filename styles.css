@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 800px; /* por que deseamos el scroll*/
+  }
+  
+  section {
+    border: 4px dashed steelblue;
+    width: 500px;
+    height: 400px;
+    margin: 60px auto;
+  }
+  
+  div {
+    border-radius: 5px;
+    color: #444;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 25px;
+    text-align: center;
+    background-color: coral;
+  }
+  
